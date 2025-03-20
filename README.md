@@ -11,12 +11,17 @@ With three uniquely themed dashboards, this project uncovers what truly drives P
 
 ## 🎯 Project Goals (Expanded)
 
-✅ **Centralize Disparate Data Sources**: Consolidate rating platforms, critic scores, box office data, and sentiment analysis into a unified model
-✅ **Uncover Rating Patterns Across Platforms**: Compare IMDb, Rotten Tomatoes, Metacritic, and Letterboxd to find consistent audience/critic behavior
-✅ **Evaluate Sentiment Trends**: Identify how emotionally charged films perform compared to others using sentiment polarity scores
-✅ **Analyze Financial Performance**: Understand ROI, budget-to-profit dynamics, and revenue trends across years and countries
-✅ **Genre & MPAA Strategy Insights**: Break down performance by genres and ratings to see which categories deliver highest critical & commercial success
-✅ **Design for Storytelling**: Create 3 clean, visually intuitive dashboards that communicate insights in a business-ready format
+✅ **Centralize Disparate Data Sources**: Consolidate rating platforms, critic scores, box office data, and sentiment analysis into a unified model.
+
+✅ **Uncover Rating Patterns Across Platforms**: Compare IMDb, Rotten Tomatoes, Metacritic, and Letterboxd to find consistent audience/critic behavior.
+
+✅ **Evaluate Sentiment Trends**: Identify how emotionally charged films perform compared to others using sentiment polarity scores.
+
+✅ **Analyze Financial Performance**: Understand ROI, budget-to-profit dynamics, and revenue trends across years and countries.
+
+✅ **Genre & MPAA Strategy Insights**: Break down performance by genres and ratings to see which categories deliver highest critical & commercial success.
+
+✅ **Design for Storytelling**: Create 3 clean, visually intuitive dashboards that communicate insights in a business-ready format.
 
 ## 🧰 Tech Stack
 **Power BI** – Main visualization and reporting tool
