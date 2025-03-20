@@ -23,10 +23,14 @@ With three uniquely themed dashboards, this project uncovers what truly drives P
 
 ✅ **Design for Storytelling**: Create 3 clean, visually intuitive dashboards that communicate insights in a business-ready format.
 
+---
+
 ## 🧰 Tech Stack
 **Power BI** – Main visualization and reporting tool
 **DAX (Data Analysis Expressions)** – For calculated KPIs, measures, and interactivity
 **Power Query** – Used for data shaping, cleaning, merging, and transformation
+
+---
 
 ## 🔍 Dataset  
 The dataset was provided by Maven Analytics, containing information on:  
@@ -34,7 +38,9 @@ The dataset was provided by Maven Analytics, containing information on:
 - Audience scores from IMDb, Rotten Tomatoes (audience), Letterboxd  
 - Critic scores from Rotten Tomatoes (critics), Metacritic  
 - Sentiment polarity from review text analysis  
-- CinemaScore & MPAA ratings  
+- CinemaScore & MPAA ratings
+
+  ---
 
 ## 📊 Project Structure & Steps
 
@@ -56,6 +62,7 @@ The dataset was provided by Maven Analytics, containing information on:
 ### 3. **Dashboard Design**
 Created **3 distinct Power BI layouts** with the following focus areas:
 
+---
 
 ## 🧠 Dashboard 1: **Ratings & Sentiment Analysis**
 
@@ -95,6 +102,7 @@ Created **3 distinct Power BI layouts** with the following focus areas:
 - 🎬 **G & PG-rated films dominate Pixar’s catalog**, aligning with their family-first brand image  
 - ⏱ **Runtime sweet spot lies between 90–120 minutes** for most engaging films
 
+---
 
 ## ✅ Recommendations
 
@@ -115,10 +123,13 @@ Monitor viewer sentiment polarity week-by-week to understand perception shifts a
 
 💡 Analyze Underperforming Films in More Detail
 Look beyond ROI: were there gaps in audience targeting, storytelling, or market saturation?
+
 ---
 
 ## 🎯 Final Takeaway  
 Pixar's magic formula? A combination of **emotional storytelling, strategic release timing, and data-backed creative decisions**. This project showcases how analytics isn't just about numbers — it's about **revealing the soul behind stories**.
+
+---
 
 ## 🧠 What I Learned  
 - Gained strong hands-on experience with **DAX** for sentiment-driven KPIs and calculated insights  
