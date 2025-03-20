@@ -55,7 +55,7 @@ The dataset was provided by Maven Analytics, containing information on:
   - Avg Sentiment Score
   - Avg Ratings per Platform
   - ROI %
-  - Score Distribution by Genre/MPAA/Platform
+  - Score Distribution by Genre
   - Profit & Revenue Insights
 
 
